@@ -2,7 +2,7 @@
 
 **A collection of Python web scraping projects built using the Scrapy framework.**
 
-This repository hosts multiple Scrapy projects that illustrate how to crawl and extract structured data from websites. Scrapy is a fast, extensible web scraping and crawling framework for Python. :contentReference[oaicite:0]{index=0}
+This repository hosts multiple Scrapy projects that illustrate how to crawl and extract structured data from websites. Scrapy is a fast, extensible web scraping and crawling framework for Python. 
 
 ## Table of Contents
 
